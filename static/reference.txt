@@ -1,0 +1,4 @@
+static is folder used for storing content 
+we can access static by "/static"
+we can access static files by "port/static/filename"
+example "http://127.0.0.1:5000/static/itzme.jpeg"
